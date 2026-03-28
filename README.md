@@ -1,2 +1,3 @@
 # Time Series Forecasting of Visitor Arrivals to Japan
-Time series forecast of inbound tourist numbers in Japan.
+Using SARIMA and Prophet models to analyze
+seasonality and forecast inbound tourism demand.
