@@ -73,6 +73,7 @@ However:
 - RMSE: ~2.22 million
 
 These large errors are primarily due to the extreme disruption during the pandemic.
+![Evaluation](mae.png)
 
 ---
 
@@ -88,8 +89,8 @@ However, they struggle to handle sudden external shocks such as:
 
 ---
 
-### Visitor Arrivals vs Tourism Consumption
-![Visitor vs Consumption](visitors_vs_consumption.png)
+### Time Series Forecasting of Visitor Arrivals to Japan
+![Time Series Forecasting of Visitor Arrivals](time_series_forecasting.png)
 
 ## Conclusion
 The SARIMA model captures long-term trends and seasonality reasonably well.
