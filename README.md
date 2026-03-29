@@ -67,6 +67,17 @@ However:
 
 ---
 
+
+
+### Time Series Forecasting of Visitor Arrivals to Japan
+![Time Series Forecasting of Visitor Arrivals](time_series_forecasting.png)
+
+EDA図
+
+![Time Series Forecasting of Visitor Arrivals](time_series_forecasting.png)
+
+Forecast図
+
 ## Evaluation
 ![Evaluation](mae.png)
 - MAE: 1,847,599
@@ -88,9 +99,6 @@ However, they struggle to handle sudden external shocks such as:
 
 ---
 
-### Time Series Forecasting of Visitor Arrivals to Japan
-![Time Series Forecasting of Visitor Arrivals](time_series_forecasting.png)
-
 ## Conclusion
 The SARIMA model captures long-term trends and seasonality reasonably well.
 However, it fails to account for the structural break caused by COVID-19,
@@ -105,6 +113,8 @@ data/
 　raw/ # Original Excel data
 　processed/ # Cleaned time series data
 notebook/ # tourism_time_series_forecast.ipynb
+README.md
+requirements.txt
 ```
 ---
 
