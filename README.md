@@ -69,11 +69,11 @@ However:
 
 
 
-### Time Series Forecasting of Visitor Arrivals to Japan
-#### Forecast図
+## Time Series Forecasting of Visitor Arrivals to Japan
+### Forecast図
 ![Time Series Forecasting of Visitor Arrivals](time_series_forecasting.png)
 
-## Evaluation
+### Evaluation
 ![Evaluation](mae.png)
 - MAE: 1,847,599
 - RMSE: 2,218,195
