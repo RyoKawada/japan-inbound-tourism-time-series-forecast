@@ -72,7 +72,7 @@ However:
 ## Time Series Forecasting of Visitor Arrivals to Japan
 
 ### Visitor Arrivals図
-![Time Series Forecasting of Visitor Arrivals](visitor.png)
+![Time Series Forecasting of Visitor Arrivals](visitors.png)
 
 ### Forecast図
 ![Time Series Forecasting of Visitor Arrivals](forecast.png)
