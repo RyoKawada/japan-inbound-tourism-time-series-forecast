@@ -96,10 +96,7 @@ However, it fails to account for the structural break caused by COVID-19,
 resulting in large prediction errors during 2020–2022.
 
 ### Requirements
-pandas, matplotlib, seaborn, statsmodels
-
-
-
+pandas, matplotlib
 
 ## Repository Structure
 ```text
