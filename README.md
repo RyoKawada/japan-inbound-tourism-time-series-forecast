@@ -69,7 +69,8 @@ However:
 
 ## Evaluation
 ![Evaluation](mae.png)
-
+- MAE: 1,847,599
+- RMSE: 2,218,195
 These large errors are primarily due to the extreme disruption during the pandemic.
 
 
