@@ -70,10 +70,6 @@ However:
 
 
 ### Time Series Forecasting of Visitor Arrivals to Japan
-
-#### EDA図
-![Time Series Forecasting of Visitor Arrivals](EDA.png)
-
 #### Forecast図
 ![Time Series Forecasting of Visitor Arrivals](time_series_forecasting.png)
 
